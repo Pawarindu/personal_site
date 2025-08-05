@@ -74,7 +74,7 @@ a {
     list-style: none;
 }
 
-@media(max-width: 768px) {
+@media(max-width: 430px) {
     .hamburger {
         display: flex;
     }
@@ -519,4 +519,5 @@ a {
     height: 100%;
     pointer-events: none;
     z-index: -1;
+
 }
